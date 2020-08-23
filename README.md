@@ -12,6 +12,11 @@ Server VM's user application and Kernel communicate each other with Netlink sock
 
 This project shows basic network look-up mechanism
 
+In client VMs, run dns_client.c
+In server VM, run dns_netlink_server.c
+
+
+
 
 
 
